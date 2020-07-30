@@ -23,3 +23,4 @@ setup(
             "*.ui", # include QT ui files 
             ], 
         },
+)
