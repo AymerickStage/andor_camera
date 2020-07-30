@@ -19,7 +19,7 @@ setup(
     packages=['ScopeFoundryHW.andor_camera',],
         
     package_data={
-        '':["README*", 'LICENSE', # include License and readme 
+        '':["README", 'LICENSE', # include License and readme 
             "*.ui", # include QT ui files 
             ], 
         },
